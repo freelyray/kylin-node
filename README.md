@@ -61,6 +61,8 @@ Or, start a dev chain with detailed logging:
 RUST_LOG=debug RUST_BACKTRACE=1 ./target/debug/kylin-node -lruntime=debug --dev
 ```
 
+### Docker
+
 ### Use `release` version
 
 Replace `debug` with `release`.
